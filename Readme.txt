@@ -1,0 +1,1 @@
+To run the program run applications.py 
